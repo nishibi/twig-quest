@@ -1,0 +1,12 @@
+{
+    "name": "nishibi/twig",
+    "authors": [
+        {
+            "name": "Nishibi",
+            "email": "justine.ginestou@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
